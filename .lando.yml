@@ -1,0 +1,6 @@
+name: e11d8site
+recipe: pantheon
+config:
+  framework: drupal8
+  site: e11d8site
+  id: bcf5f494-c67b-4513-a624-d3800dd98334
